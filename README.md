@@ -4,7 +4,7 @@
 
 Actualmente estudio DAW a distancia en IES Los Albares.
 
-[![Imagen de los albares](https://www.ieslosalbares.es/wp-content/uploads/2018/05/Sin-t%C3%ADtuloweb.jpg)](https://www.ieslosalbares.es/wp-content/uploads/2018/05/Sin-t%C3%ADtuloweb.jpg)
+[![Imagen de los albares](https://www.ieslosalbares.es/wp-content/uploads/2018/05/Sin-t%C3%ADtuloweb.jpg)](https://www.ieslosalbares.es/)
 
 Los módulos profesionales son:
 - Programación
