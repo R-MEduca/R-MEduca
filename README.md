@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @R-MEduca
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ¿Quién soy?
 
-<!---
-R-MEduca/R-MEduca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Me llamo **Rubén** y aquí tienes algo de información sobre mi:
+
+Actualmente estudio DAW a distancia en IES Los Albares.
+
+[![Imagen de los albares](https://www.ieslosalbares.es/wp-content/uploads/2018/05/Sin-t%C3%ADtuloweb.jpg)](https://www.ieslosalbares.es/wp-content/uploads/2018/05/Sin-t%C3%ADtuloweb.jpg)
+
+Los módulos profesionales son:
+- Programación
+- Entornos de desarrollo
+- Lenguaje de marcas
+- Sistemas informáticos
+- Digitalización aplicada a sectores productivos
+- Inglés
+- ~~Bases de datos~~
+- ~~Itinerario personal para la empleabilidad.~~
+
+Además también comencé el curso online [**CS50**](https://pll.harvard.edu/course/cs50-introduction-computer-science) donde aprendí algo de:
+- Scratch
+- C
+
+Mis conocimientos y planes son los siguientes:
+
+|Conocimientos actuales|Próximos estudios|Aspiraciones futuras|
+|:---|:---:|---:|
+|Markdown<br>C|HTML<br>CSS<br>Java|Ser programador Full-Stack|
